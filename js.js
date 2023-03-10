@@ -1,4 +1,4 @@
-/*----JavaScript for Toggle Menu----*/
+// JavaScript for Toggle Menu //
 
 let navLinks = document.getElementById('navLinks');
 function showMenu() {
